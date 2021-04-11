@@ -1,22 +1,17 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 08.03.2021  
+**Name:** Samet  
+**Surname:** Arslantürk  
+**Email:** samet.arslanturk@bites.com.tr  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
-
+Global AI Hub tarafından hazırlanan Python dersleri ile alakalı alınmış notların ve ödevlerin paylaşılmış olduğu bir repodur.
 ## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
+python
+
 ---
 
 ### Certification
