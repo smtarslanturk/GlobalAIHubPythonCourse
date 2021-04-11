@@ -148,25 +148,6 @@ for i in a:
     print(i)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Input fonk. herzaman string deger dondurur. 
 # append() herhangi bir deger dondurmez. Arguman almak zorundadır.
 # pop() islemi yaptıktan sonra deger dondurur. pop() arguman aladabılır almayadabilir.
